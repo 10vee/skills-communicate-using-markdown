@@ -15,3 +15,7 @@ public static void main (String [] args){
 }
 }
 ```
+- [ ] Make a list on git hub
+- [ ] everything has a space in between
+- [ ] dude it auto adds it!!
+
