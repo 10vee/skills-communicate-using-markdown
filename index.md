@@ -7,3 +7,11 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 ![Image of the student government logo](https://sg.ashoka.edu.in/platform/assets/images/logos/SGLogo.png)
+
+
+``` java
+class Main{
+public static void main (String [] args){
+}
+}
+```
